@@ -62,7 +62,7 @@
   "main": "built/index.js",
   "typings": "built/index.d.ts",
   "scripts": {
-    "install": "gulp prepublish",
+    "prepublish": "gulp prepublish",
     "pretest": "gulp pretest",
     "start": "node testapp/scripts/web-server.js",
     "test": "node scripts/test.js",

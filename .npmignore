@@ -1,5 +1,8 @@
 debugging/
 docs/
+lib/
+scripts/
+spec/
 stress/
 selenium/
 testapp/
